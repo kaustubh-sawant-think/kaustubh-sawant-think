@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, World👋,<br>I'm Kaustubh Sawant based in Pune, India 🇮🇳</p>
+<p align="left">Hello, World👋<br>I'm Kaustubh Sawant based in Pune, India 🇮🇳</p>
 
 ###
 
