@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Flutter developer with a passion for creating user-focused applications.<br><br>I'm skilled in the Flutter framework and am a top-notch problem-solver and solution provider.<br>When I'm not creating, I lose myself in science fiction books, and I mentor at local coding workshops to encourage the next generation of developers. <br><br>🎯 Ambition: Pushing the boundaries of what apps can achieve <br>🎲 Fun fact: Transforming code into captivating digital experiences!</p>
+<p align="left">Flutter developer with a passion for creating user-focused applications.<br><br>I'm skilled in the Flutter framework and am a top-notch problem-solver and solution provider. <br><br>🎯 Ambition: Pushing the boundaries of what apps can achieve <br>🎲 Fun fact: Transforming code into captivating digital experiences!</p>
 
 ###
 
